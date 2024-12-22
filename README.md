@@ -4,4 +4,6 @@ Links to various resources[^1] about products, solutions and technologies:
 
 [HTTP middleware](middleware.md)
 
+[Docker](docker.md)
+
 [^1]: Online resources
