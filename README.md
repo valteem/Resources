@@ -6,4 +6,8 @@ Links to various resources[^1] about products, solutions and technologies:
 
 [Docker](docker.md)
 
+[Media](media.md)
+
+[Simulations](simulations.md)
+
 [^1]: Online resources
