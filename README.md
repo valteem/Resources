@@ -4,7 +4,7 @@ Links to various resources[^1] about products, solutions and technologies:
 
 [Redis](Redis.md)
 
-[HTTP middleware](middleware.md)
+[Web](Web.md)
 
 [Docker](docker.md)
 
