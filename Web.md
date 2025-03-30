@@ -15,3 +15,6 @@
 
 # Dependency Injection
 [Exposure Notification Reference Server](https://github.com/google/exposure-notifications-server)
+
+# Other
+[Minimalistic configuration reader](https://github.com/ilyakaznacheev/cleanenv)
