@@ -12,3 +12,6 @@
 
 # HTTP
 [Protections against well-known web vulnerabilities by setting important security headers ](https://github.com/jeffotoni/quick/blob/main/middleware/helmet/helmet.go)
+
+# Dependency Injection
+[Exposure Notification Reference Server](https://github.com/google/exposure-notifications-server)
