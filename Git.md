@@ -1,0 +1,1 @@
+[Store user name and password on disk](https://git-scm.com/docs/git-credential-store)
