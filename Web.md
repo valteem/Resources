@@ -18,3 +18,5 @@
 
 # Other
 [Minimalistic configuration reader](https://github.com/ilyakaznacheev/cleanenv)
+
+[Store user authorization (permissions) in binary format](https://stackoverflow.com/a/3673866)
