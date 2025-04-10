@@ -2,6 +2,8 @@
 
 [How I write HTTP services in Go](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/#putting-this-all-into-practice)
 
+[Library for microservices](https://github.com/go-kit/kit)
+
 [Layered Architecture](https://medium.com/swlh/developing-a-web-application-in-go-using-the-layered-architecture-8fc13209c808)
 
 
