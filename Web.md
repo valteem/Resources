@@ -33,3 +33,5 @@
 # Other
 [Minimalistic configuration reader](https://github.com/ilyakaznacheev/cleanenv)
 
+[How to handle secrets in Go](https://blog.gitguardian.com/how-to-handle-secrets-in-go/)
+
