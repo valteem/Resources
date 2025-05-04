@@ -1,5 +1,7 @@
 Links to various resources[^1] about products, solutions and technologies:
 
+[Golang](Golang.md) - core language features
+
 [Linux](Linux.md)
 
 [Git](Git.md)
