@@ -1,0 +1,1 @@
+[Kubernetes 101: Deploying a web application and database](https://www.endpointdev.com/blog/2022/01/kubernetes-101/)
