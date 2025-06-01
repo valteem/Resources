@@ -20,4 +20,6 @@ Links to various resources[^1] about products, solutions and technologies:
 
 [Simulations](simulations.md)
 
+[Algorithms](Algorithms.md)
+
 [^1]: Online resources
