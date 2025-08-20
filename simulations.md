@@ -1,1 +1,1 @@
-[https://github.com/te42kyfo/heat](3D heat equation solver with support for varying conductivity coefficents. Includes colorful OpenGL visualization)
+[https://github.com/te42kyfo/heat](3D heat equation solver with support for varying conductivity coefficients. Includes colorful OpenGL visualization)
