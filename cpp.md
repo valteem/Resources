@@ -1,0 +1,1 @@
+[How to define a template class function with nested type of the template argument in its signature outside the class](https://stackoverflow.com/questions/29493036/how-to-define-a-template-class-function-with-nested-type-of-the-template-argumen)
