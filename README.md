@@ -32,4 +32,6 @@ Links to various resources[^1] about products, solutions and technologies:
 
 [Cryptography](Cryptography.md)
 
+[QEMU/KVM](QEMU.md)
+
 [^1]: Online resources
