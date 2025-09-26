@@ -1,0 +1,1 @@
+[NVidia Logical Pipelines](https://developer.nvidia.com/content/life-triangle-nvidias-logical-pipeline)

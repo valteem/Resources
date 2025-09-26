@@ -8,6 +8,8 @@ Links to various resources[^1] about products, solutions and technologies:
 
 [Git](Git.md)
 
+[GPU](GPU.md)
+
 [SQL](SQL.md)
 
 [Postgres](Postgres.md)
