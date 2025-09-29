@@ -34,4 +34,6 @@ Links to various resources[^1] about products, solutions and technologies:
 
 [QEMU/KVM](QEMU.md)
 
+[Windows](Win.md)
+
 [^1]: Online resources
