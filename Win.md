@@ -1,1 +1,3 @@
-To remove a stubborn keyboard layout in Windows 11, back up your registry, open the Registry Editor (regedit), navigate to HKEY_CURRENT_USER\Keyboard Layout\Preload and HKEY_USERS\\.DEFAULT\\Keyboard Layout\\Preload. In each location, find the value corresponding to the unwanted layout's identifier (e.g., 00000409 for English) and delete it. Restart your PC to apply the changes. 
+To remove a stubborn keyboard layout in Windows 11, back up your registry, open the Registry Editor (regedit), navigate to HKEY_CURRENT_USER\Keyboard Layout\Preload and HKEY_USERS\\.DEFAULT\\Keyboard Layout\\Preload. In each location, find the value corresponding to the unwanted layout's identifier (e.g., 00000409 for English) and delete it. Restart your PC to apply the changes.
+
+[Windows 11: Unwanted Language Constantly Appears](https://learn.microsoft.com/en-us/answers/questions/4150834/windows-11-unwanted-language-constantly-appears?orderby=oldest&page=1#answers)
